@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1001974874016",
+    "firebase_url": "https://accidentreport-5e108.firebaseio.com",
+    "project_id": "accidentreport-5e108",
+    "storage_bucket": "accidentreport-5e108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001974874016:android:fa1ff414bb49622e",
+        "android_client_info": {
+          "package_name": "com.dhure.loginphase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001974874016-c1kgo5npegfvod5tqn2kbv7ea7ccj19d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWQ1jezKxNdh_c1gpYfQ9rJ4qw7B-_EI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
